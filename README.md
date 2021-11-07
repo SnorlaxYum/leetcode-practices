@@ -2,4 +2,12 @@
 
 Hmm, for my practice purposes.......
 
-Tree: 94, 102, 103, 104, 124, 199
+## Tree
+
+### Traversal
+
+94. Inorder
+102. Level-Order
+103. Zigzag Level-order
+144. PreOrder
+145. PostOrder 
