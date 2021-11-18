@@ -11,3 +11,10 @@ Hmm, for my practice purposes.......
 103. Zigzag Level-order
 144. PreOrder
 145. PostOrder 
+199. right-side view
+
+### Others
+
+104. Maximum depth
+105. Construct Binary Tree from preorder and inorder traversal
+124. Binart Tree maximum path sum
