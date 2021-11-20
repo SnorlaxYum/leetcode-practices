@@ -14,6 +14,7 @@ var buildTree = function(preorder, inorder) {
     return new TreeNode(preorder[0], left, right)
 };
 // 2. iterative
+// original: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/discuss/336250/O(N)-Iterative-Python-Solution-using-Dictionary-and-Stack
 var buildTree = function(preorder, inorder) {
     if(!preorder.length || !inorder.length) {
         return null
