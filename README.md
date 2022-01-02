@@ -21,4 +21,5 @@ Hmm, for my practice purposes.......
 113: Path sum II
 124: Binart Tree maximum path sum
 129: sum root to leaf numbers
+236: Lowest Common Ancestor of a Binary Tree
 543: Diameter of Binary Tree
