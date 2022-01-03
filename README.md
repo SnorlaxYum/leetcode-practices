@@ -7,6 +7,7 @@ Hmm, for my practice purposes.......
 ### Traversal
 
 94: Inorder
+[98] Validate Binary Search Tree (including an iteration solution link)
 102: Level-Order
 103: Zigzag Level-order
 144: PreOrder
