@@ -24,3 +24,12 @@ Hmm, for my practice purposes.......
 129: sum root to leaf numbers
 236: Lowest Common Ancestor of a Binary Tree
 543: Diameter of Binary Tree
+
+## Linked List
+
+[142] Linked List Cycle II
+[287] Find the Duplicate Number
+
+## Array
+
+[287] Find the Duplicate Number
