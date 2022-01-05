@@ -33,3 +33,7 @@ Hmm, for my practice purposes.......
 ## Array
 
 [287] Find the Duplicate Number
+
+## Stack
+
+[232] Implement Queue using Stacks
