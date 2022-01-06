@@ -28,6 +28,7 @@ Hmm, for my practice purposes.......
 ## Linked List
 
 [142] Linked List Cycle II
+[206] Reverse Linked List
 [287] Find the Duplicate Number
 
 ## Array
