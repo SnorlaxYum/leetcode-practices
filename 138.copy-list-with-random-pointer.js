@@ -4,8 +4,6 @@
  * [138] Copy List with Random Pointer
  */
 
-const { isInt32Array } = require("util/types");
-
 // 1. recursive
 var copyRandomList = function(head) {
     const copies = new Map()
