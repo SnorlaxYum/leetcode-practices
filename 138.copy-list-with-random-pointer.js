@@ -45,6 +45,7 @@ var copyRandomList = function(head) {
     return copies.get(head)
 };
 //3. no hashmap (insert copy behind)
+// https://leetcode.com/problems/copy-list-with-random-pointer/discuss/43497/2-clean-C%2B%2B-algorithms-without-using-extra-arrayhash-table.-Algorithms-are-explained-step-by-step.
 var copyRandomList = function(head) {
     if(!head) {
         return head
@@ -79,6 +80,7 @@ var copyRandomList = function(head) {
     return final_head
 };
 // 4. no hashmap (random and next exchanged)
+// https://leetcode.com/problems/copy-list-with-random-pointer/discuss/43497/2-clean-C%2B%2B-algorithms-without-using-extra-arrayhash-table.-Algorithms-are-explained-step-by-step.
 var copyRandomList = function(head) {
     if(!head) {
         return head
