@@ -40,3 +40,7 @@ Hmm, for my practice purposes.......
 
 [155] Min Stack
 [232] Implement Queue using Stacks
+
+## Dynamic Programming
+
+[343] Integer Break
